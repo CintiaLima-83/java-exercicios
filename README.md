@@ -23,13 +23,21 @@ java-ebac/
 ├── 01-hello-world
 
 ├── 02-variaveis
+
 ├── 03-manipulando-variaveis
+
 ├── 04-cadastro-usuario
+
 ├── 05-cadastro-completo
+
 ├── 06-cadastro-inteligente
+
 ├── 07-operadores-relacionais-logicos
+
 ├── 08-maior-numero
+
 ├── 09-menu-de-jogo
+
 ├── 10-estruturas-repeticao
 
 
