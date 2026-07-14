@@ -43,6 +43,6 @@ java-ebac/
 
 ## 🚀 Tecnologias - Java - IntelliJ IDEA - Git - GitHub
 
-## 🎯 Meu objetivo é construir uma base sólida em Java para atuar como desenvolvedora Back-end, aplicando boas práticas de programação e organização de código. Cada projeto representa uma etapa importante da minha evolução como desenvolvedora.
+  Meu objetivo é construir uma base sólida em Java para atuar como desenvolvedora Back-end, aplicando boas práticas de programação e organização de código. Cada projeto representa uma etapa importante da minha evolução como desenvolvedora.
 
  Feito com dedicação por **Cintia Lima** 💜
