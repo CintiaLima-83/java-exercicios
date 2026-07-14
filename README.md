@@ -15,9 +15,13 @@ Este repositório reúne os exercícios e projetos desenvolvidos durante meus es
 
  ## 📂 Estrutura do repositório
  
+ 
 java-ebac/
+
 │
+
 ├── 01-hello-world
+
 ├── 02-variaveis
 ├── 03-manipulando-variaveis
 ├── 04-cadastro-usuario
@@ -27,6 +31,7 @@ java-ebac/
 ├── 08-maior-numero
 ├── 09-menu-de-jogo
 ├── 10-estruturas-repeticao
+
 
 ## 🚀 Tecnologias - Java - IntelliJ IDEA - Git - GitHub
 
