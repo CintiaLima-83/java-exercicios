@@ -17,28 +17,26 @@ Este repositório reúne os exercícios e projetos desenvolvidos durante meus es
  
  
 java-ebac/
+|
+01-hello-world
 
-│
+02-variaveis
 
-├── 01-hello-world
+03-manipulando-variaveis
 
-├── 02-variaveis
+04-cadastro-usuario
 
-├── 03-manipulando-variaveis
+05-cadastro-completo
 
-├── 04-cadastro-usuario
+06-cadastro-inteligente
 
-├── 05-cadastro-completo
+07-operadores-relacionais-logicos
 
-├── 06-cadastro-inteligente
+09-maior-numero
 
-├── 07-operadores-relacionais-logicos
+10-menu-de-jogo
 
-├── 08-maior-numero
-
-├── 09-menu-de-jogo
-
-├── 10-estruturas-repeticao
+11-estruturas-repeticao
 
 
 ## 🚀 Tecnologias - Java - IntelliJ IDEA - Git - GitHub
