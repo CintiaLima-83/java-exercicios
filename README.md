@@ -21,11 +21,11 @@ java-ebac/
 
 07-operadores-relacionais-logicos
 
-09-maior-numero
+08-maior-numero
 
-10-menu-de-jogo
+09-menu-de-jogo
 
-11-estruturas-repeticao
+10-estruturas-repeticao
 
 
 ## 🚀 Tecnologias - Java - IntelliJ IDEA - Git - GitHub
