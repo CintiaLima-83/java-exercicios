@@ -1,15 +1,12 @@
 # IntelliJ IDEA
 .idea/
-
-# Arquivos de módulo
 *.iml
 
 # Arquivos compilados
 out/
 target/
-
-# Logs
-*.log
+build/
+*.class
 
 # Sistema operacional
 .DS_Store
