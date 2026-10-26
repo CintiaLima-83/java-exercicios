@@ -1,35 +1,86 @@
-# ☕ Java - Exercícios EBAC Bem-vindo(a)!
-Este repositório reúne os exercícios e projetos desenvolvidos durante meus estudos de **Back-end Java** na **EBAC**. O objetivo é registrar minha evolução na linguagem Java, praticando desde conceitos básicos até tópicos mais avançados.
+# ☕ Java | Exercícios e Práticas — EBAC
 
+Bem-vindo(a) ao meu repositório de estudos em Java!
 
- ## 📂 Estrutura do repositório
- 
- 
-java-ebac/
+Este repositório reúne exercícios e práticas desenvolvidos durante minha formação em **Back-end Java na EBAC**.
 
-01-hello-world
+O objetivo é documentar minha evolução como desenvolvedora, consolidar os fundamentos da linguagem Java e desenvolver habilidades de lógica de programação, programação orientada a objetos e resolução de problemas.
 
-02-variaveis
+## 📚 Conteúdos estudados
 
-03-manipulando-variaveis
+- Fundamentos e sintaxe da linguagem Java
+- Variáveis, tipos de dados e operadores
+- Estruturas condicionais e de repetição
+- Vetores e matrizes
+- Programação Orientada a Objetos (POO)
+- Classes, objetos, métodos e encapsulamento
+- Recursividade e resolução de problemas algorítmicos
 
-04-cadastro-usuario
+## 📂 Estrutura do repositório
 
-05-cadastro-completo
+### Fundamentos de Java
 
-06-cadastro-inteligente
+| Nº | Exercício |
+|---|---|
+| 01 | Hello World |
+| 02 | Variáveis |
+| 03 | Manipulando Variáveis |
+| 04 | Cadastro de Usuário |
+| 05 | Cadastro Completo |
+| 06 | Cadastro Inteligente |
+| 07 | Operadores Relacionais e Lógicos |
+| 08 | Maior Número |
+| 09 | Menu de Jogo |
+| 10 | Estruturas de Repetição |
 
-07-operadores-relacionais-logicos
+### Estruturas de dados e lógica
 
-08-maior-numero
+| Nº | Exercício |
+|---|---|
+| 11 | While e Do-While |
+| 12 | Exercícios com Vetores |
+| 13 | Vetores |
+| 14 | Exercício com Matriz |
+| 15 | Quest Login |
+| 16 | Exercício com Vetor |
+| 17 | Matriz |
 
-09-menu-de-jogo
+### Programação Orientada a Objetos
 
-10-estruturas-repeticao
+| Nº | Exercício |
+|---|---|
+| 18 | Exercício de Carros |
+| 19 | Orientação a Objetos |
+| 20 | Sistema de Notas dos Alunos |
 
+### Recursividade e algoritmos
 
-## 🚀 Tecnologias - Java - IntelliJ IDEA - Git - GitHub
+| Nº | Exercício | Conceito |
+|---|---|---|
+| 21 | [Fatorial](21-fatorial/) | Cálculo de fatorial e recursividade |
+| 22 | [Fibonacci](22-fibonacci/) | Sequências e chamadas recursivas |
+| 23 | [Número de Ilhas](23-numero-de-ilhas/) | Matrizes e busca recursiva |
+| 24 | [Climbing Stairs](24-climbing-stairs/) | Casos base e relação de recorrência |
 
-  Meu objetivo é construir uma base sólida em Java para atuar como desenvolvedora Back-end, aplicando boas práticas de programação e organização de código. Cada projeto representa uma etapa importante da minha evolução como desenvolvedora.
+## 🛠️ Tecnologias e ferramentas
 
- Feito com dedicação por **Cintia Lima** 💜
+- **Java** — Linguagem de programação
+- **IntelliJ IDEA** — Ambiente de desenvolvimento
+- **Git** — Controle de versão
+- **GitHub** — Versionamento e organização dos exercícios
+
+## 🎯 Objetivo
+
+Meu objetivo é construir uma base sólida em desenvolvimento Back-end com Java, aprimorando meu raciocínio lógico, minha capacidade de resolver problemas e a aplicação de boas práticas de programação.
+
+Este repositório representa meu processo contínuo de aprendizado, com exercícios que demonstram minha evolução técnica ao longo da formação.
+
+## 👩‍💻 Desenvolvedora
+
+**Cintia Lima**
+
+[GitHub](https://github.com/CintiaLima-83)
+
+---
+
+💜 *Cada exercício representa mais um passo na minha jornada como desenvolvedora.*
