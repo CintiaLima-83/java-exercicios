@@ -14,6 +14,13 @@ public class ClimbStairs {
 
     public  static int contarFormas(int n) {
 
+        // Validação: a escada precisa ter pelo menos 1 degrau
+        if (n < 1) {
+            throw new IllegalArgumentException(
+                    "O número de degraus deve ser maior que zero."
+            );
+        }
+
         // Caso base: existe 1 maneira de subir 1 degrau
 
         if (n == 1){
